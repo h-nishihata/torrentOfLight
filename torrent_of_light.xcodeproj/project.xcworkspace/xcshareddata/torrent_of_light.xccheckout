@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AD4485E7-A175-4B30-8A17-D0503FF617F3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>torrent_of_light</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>18C7F06FB422489BC8418DE2F2217D2B08E8D5B7</key>
+		<string>https://github.com/h-nishihata/kinect_sender</string>
+		<key>F9F91BF20C62927D9350B4E279111EA6E25DCE68</key>
+		<string>https://github.com/h-nishihata/torrent_of_light/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>torrent_of_light.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>18C7F06FB422489BC8418DE2F2217D2B08E8D5B7</key>
+		<string>../../../waterfall_receiver_3</string>
+		<key>F9F91BF20C62927D9350B4E279111EA6E25DCE68</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/h-nishihata/torrent_of_light/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F9F91BF20C62927D9350B4E279111EA6E25DCE68</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F9F91BF20C62927D9350B4E279111EA6E25DCE68</string>
+			<key>IDESourceControlWCCName</key>
+			<string>torrent_of_light</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>18C7F06FB422489BC8418DE2F2217D2B08E8D5B7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>waterfall_receiver_3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
